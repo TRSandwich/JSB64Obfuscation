@@ -1,7 +1,7 @@
-var e1f = 'SGVsbG8gV29ybGQ=';
+var e1gh = "SGVsbG8gV29ybGQ=";
 
 function f1gh() {
-    let d1f = atob(e1f);
-    console.log(d1f);
+    const d1gh = atob(e1gh);
+    console.log(d1gh);
 }
 f1gh();
